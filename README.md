@@ -28,11 +28,6 @@ I’m a detail-oriented Data Analyst with over 2 years of experience in analyzin
 | **Data Analyst** | NextGen Healthcare, Bengaluru | Feb 2024 – July 2025 | - Automated Market Analytics dashboards, reducing manual effort by 30%  <br> - Cleaned and transformed large datasets with SQL, achieving 90%+ data accuracy  <br> - Delivered 10+ interactive Power BI dashboards for executive insights  <br> - Reduced processing time by 25% through optimized queries and models <br> - Identified trends that improved business efficiency by 20% |
 | **Process Associate** | Gallagher, Bengaluru | Apr 2023 – Jan 2024 | - Automated reporting workflows with Excel VBA, boosting team output by 80% <br> - Led quality improvements that increased data accuracy by 60% <br> - Reduced client issues by 25% through cross-functional process enhancements <br> - Performed root-cause data analysis to support strategic decisions |
 
----
-
-## 📊 Projects
-
-CRYPTO dashboard.pbix
 
 ---
 
