@@ -32,7 +32,7 @@ I’m a detail-oriented Data Analyst with over 2 years of experience in analyzin
 
 ## 📊 Projects
 
-_(Add here any personal or bootcamp projects. For now, you can include GitHub links or leave this section as a placeholder.)_
+CRYPTO dashboard.pbix
 
 ---
 
